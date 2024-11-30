@@ -5,7 +5,7 @@ const MaruBatsuGameV1 = () => {
     {/* <MaruBatsuGame /> */}
     <br />
     <br />
-    <br />
+    デプロイテスト<br />
     <a href='../'>戻る</a>
   </main>
 };
