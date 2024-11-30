@@ -1,6 +1,5 @@
 ### デプロイ先
-// 作成予定
-https://nextjs-sandbox-git-feature-killingtime-wakizaka24s-projects.vercel.app/?_vercel_share=dUPOIpHJl9vHNFl75lQ0QoRIwj8TD3R5
+https://marubatsu-git-feature-commitpractice-wakizaka24s-projects.vercel.app/?_vercel_share=VDTwwvhSe5v9lzZir2LTvmD3MAKOJIrq
 
 ### Nodeのバージョン合わせツール(nodebrew)のインストール(Mac)
 ```
